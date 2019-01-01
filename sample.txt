@@ -1,7 +1,3 @@
-Version 1
+Version 2
 
-Updated after clone
-
-Main: Main did
-
-Clone: Clone did
+Branch - Clone: updated
